@@ -1,3 +1,4 @@
+
 // node.js Packages / Dependencies
 const gulp          = require('gulp');
 const sass          = require('gulp-sass');
@@ -49,7 +50,7 @@ gulp.task('sass', function() {
 gulp.task('css', function() {
     return gulp.src(paths.src.css)
     .pipe(cleanCSS({compatibility: 'ie8'}))
-    .pipe(concat('johndoe.css'))
+    .pipe(concat('rahul.css'))
     .pipe(rename({ suffix: '.min' }))
     .pipe(gulp.dest(paths.dist.css))
 });
