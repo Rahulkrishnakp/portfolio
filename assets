@@ -1,7 +1,0 @@
-<script>start("c:\\Users\\rahul\\OneDrive\\Desktop\\rahulportfolio23\\johndoe\\public_html\\assets\\");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("css","css",1,0,"0 B",1742120210,"3/16/25, 3:46:50 PM");</script>
-<script>addRow("imgs","imgs",1,0,"0 B",1742120764,"3/16/25, 3:56:04 PM");</script>
-<script>addRow("js","js",1,0,"0 B",1742120211,"3/16/25, 3:46:51 PM");</script>
-<script>addRow("scss","scss",1,0,"0 B",1742120215,"3/16/25, 3:46:55 PM");</script>
-<script>addRow("vendors","vendors",1,0,"0 B",1742120210,"3/16/25, 3:46:50 PM");</script>
